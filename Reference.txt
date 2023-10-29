@@ -1,1 +1,4 @@
 Hyperparamter tuning - https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+Random Forest Classifier - https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+KNN - https://plotly.com/python/knn-classification/
+KNN - http://vision.stanford.edu/teaching/cs231n-demos/knn/
